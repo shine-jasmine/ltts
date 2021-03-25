@@ -1,9 +1,9 @@
 /**
  * @file myfunc.h
- * @author Debashish Dash
- * @brief functions for addition substraction multiplication and division of two complex number.
+ * @author Shine Jasmine
+ * @brief Functions to add, subtract, multiply, divide complex no.
  * @version 0.1
- * @date 2021-03-23
+ * @date 2021-03-25
  * 
  * @copyright Copyright (c) 2021
  * 
